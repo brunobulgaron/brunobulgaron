@@ -1,5 +1,5 @@
 ### Hi there 👋, Bruno Bulgaron
-#### I am a Fullstack Web Developer
+#### Fullstack Web Developer
 
 I'm Bruno, a 27 year old web developer from Brazil driven by my creativity to build amazing web applications and also to learn about new technologies.
 
