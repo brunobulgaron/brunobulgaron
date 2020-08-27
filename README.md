@@ -6,7 +6,7 @@ I'm Bruno, a 27 year old web developer from Brazil driven by my creativity to bu
 Skills: React.JS | Node | Javascript | Typescript | SQL | HTML | CSS | Git
 
 - 🔭 I’m currently working on projects to increase my portfolio 
-- 🌱 I’m currently learning Vue.JS 
+- 🌱 I’m currently learning Microservices Architeture, JAMStack 
 - 🤔 I’m looking for help with finding a job 😅 
 - 💬 Ask me about my projects here on GitHub 
 - 📫 How to reach me: brunohbulgaron@gmail.com 
