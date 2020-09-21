@@ -7,7 +7,6 @@ Skills: React.JS | Node | Javascript | Typescript | SQL | HTML | CSS | Git
 
 - 🔭 I’m currently working on projects to increase my portfolio 
 - 🌱 I’m currently learning Microservices Architeture, JAMStack 
-- 🤔 I’m looking for help with finding a job 😅 
 - 💬 Ask me about my projects, my goals, anything
 - 📫 How to reach me: brunohbulgaron@gmail.com 
 - ⚡ Fun fact: I'm also a keyboardist! 🎹🤘🏻 
