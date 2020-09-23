@@ -5,7 +5,7 @@ I'm Bruno, a 27 year old web developer from Brazil driven by my creativity to bu
 
 Skills: React.JS | Node | Javascript | Typescript | SQL | HTML | CSS | Git
 
-- 🔭 I’m currently working on projects to increase my portfolio 
+- 🔭 I’m currently working as a Fullstack Web Developer at Ziro
 - 🌱 I’m currently learning Microservices Architeture, JAMStack 
 - 💬 Ask me about my projects, my goals, anything
 - 📫 How to reach me: brunohbulgaron@gmail.com 
