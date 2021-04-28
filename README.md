@@ -1,12 +1,12 @@
 ### Hi there 👋, Bruno Bulgaron
 #### Fullstack Web Developer
 
-I'm Bruno, a 27 year old web developer from Brazil driven by my creativity to build amazing web applications and also to learn about new technologies.
+I'm Bruno, a 28 year old web developer from Brazil.
 
 Skills: React.JS | Node | Javascript | Typescript | SQL | HTML | CSS | Git
 
 - 🔭 I’m currently working as a Fullstack Web Developer at Ziro
-- 🌱 I’m currently learning Microservices Architeture, JAMStack 
+- 🌱 I’m currently focused on React and Typescript 
 - 💬 Ask me about my projects, my goals, anything
 - 📫 How to reach me: brunohbulgaron@gmail.com 
 - ⚡ Fun fact: I'm also a keyboardist! 🎹🤘🏻 
